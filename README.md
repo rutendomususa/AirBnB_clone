@@ -134,4 +134,3 @@ Public Domain.
 
 ---
 
-Feel free to update the sections with your specific project details! Let me know if you’d like help customizing it further.
